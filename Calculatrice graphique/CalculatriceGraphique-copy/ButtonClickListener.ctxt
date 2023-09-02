@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ButtonClickListener
+comment0.text=\r\n\ the\ puprose\ of\ this\ class\ is\ to\ handle\ the\ action\ events\ generated\ by\ the\ buttons\ in\ the\ graphical\ calculator.\r\n\ it\ implements\ the\ ActionListener\ interface\ which\ allows\ it\ to\ listern\ forand\ response\ to\ button\ click\ events.\r\n\ @author\ (Grace)\ \r\n\ @version\ (2023)\r\n
+comment1.params=textField
+comment1.target=ButtonClickListener(javax.swing.JTextField)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ ButtonClickListener\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ diese\ Methode\ Help\ to\ connect\ the\ GUI\ component\ withthe\ desired\ functionalitiy.\r\n\ Also\ helps\ to\ determine\ what\ action\ should\ be\ taken(event)\ when\ a\ button\ is\ clicked\r\n\ @param\ event\ of\ type\ ActionEvent\r\n
+numComments=3

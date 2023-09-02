@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CalculatriceGraphique
+comment0.text=\r\n/**\ this\ class\ represents\ a\ graphical\ calculator\ application.\r\n\ it\ extends\ the\ JFrame\ class\ to\ creat\ a\ window\ with\ buttons\ and\ a\ text\ field.\r\n\ \r\n\ \r\n\ @author\ (Grace)\ \r\n\ @version\ (2023)\r\n
+comment1.params=
+comment1.target=CalculatriceGraphique()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ CalculatriceGraphique\r\n\ the\ constructorc\ sets\ up\ the\ GUI\ components\ and\ events\ handeling.\r\n
+numComments=2
